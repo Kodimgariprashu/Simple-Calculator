@@ -1,2 +1,1 @@
-[To view calculator](webcalculator.ccbp.tech)
- # Simple-Calculator
+# Simple-Calculator
